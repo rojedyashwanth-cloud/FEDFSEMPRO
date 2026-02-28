@@ -15,7 +15,7 @@ function App() {
     <div className="web">
       <header>
         <div className="title">
-          <h1>SUBSCRIPTION PLANNING</h1>
+          <h1>SUBSCRIPTION MANAGMENT</h1>
         </div>
         <nav>
           <ul>
